@@ -1,0 +1,112 @@
+log output directed to /logs/mongosqld.log
+2025-04-17T23:12:32.950+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=8007299ebd9f
+2025-04-17T23:12:32.950+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-17T23:12:32.950+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-17T23:12:32.950+0000 I CONTROL    [initandlisten] options: {config: "/home/mongobi/mongosqld.conf", systemLog: {path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin", auth: {source: "admin"}}}}
+2025-04-17T23:12:32.950+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-17T23:12:32.950+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-18T21:53:00.592+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=605d4846af01
+2025-04-18T21:53:00.593+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-18T21:53:00.593+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-18T21:53:00.593+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-18T21:53:00.593+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-18T21:53:00.593+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-18T21:54:51.233+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=605d4846af01
+2025-04-18T21:54:51.233+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-18T21:54:51.233+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-18T21:54:51.233+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-18T21:54:51.233+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-18T21:54:51.233+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-18T21:55:24.049+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=605d4846af01
+2025-04-18T21:55:24.049+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-18T21:55:24.049+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-18T21:55:24.049+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-18T21:55:24.049+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-18T21:55:24.049+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-18T21:59:08.093+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=605d4846af01
+2025-04-18T21:59:08.093+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-18T21:59:08.093+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-18T21:59:08.093+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-18T21:59:08.093+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-18T21:59:08.093+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-18T21:59:09.555+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=605d4846af01
+2025-04-18T21:59:09.555+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-18T21:59:09.555+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-18T21:59:09.555+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-18T21:59:09.555+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-18T21:59:09.555+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-19T21:37:13.887+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=605d4846af01
+2025-04-19T21:37:13.887+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-19T21:37:13.887+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-19T21:37:13.887+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-19T21:37:13.887+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-19T21:37:13.887+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-19T21:43:22.718+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=e98e9468082d
+2025-04-19T21:43:22.718+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-19T21:43:22.718+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-19T21:43:22.718+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-19T21:43:22.718+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-19T21:43:22.718+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-20T13:46:18.602+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=e98e9468082d
+2025-04-20T13:46:18.602+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-20T13:46:18.602+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-20T13:46:18.602+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-20T13:46:18.602+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-20T13:46:18.602+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-20T19:40:43.054+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=7c222eaaf8af
+2025-04-20T19:40:43.054+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-20T19:40:43.054+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-20T19:40:43.054+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-20T19:40:43.054+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-20T19:40:43.054+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-20T19:40:47.680+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=7c222eaaf8af
+2025-04-20T19:40:47.680+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-20T19:40:47.680+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-20T19:40:47.680+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-20T19:40:47.680+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-20T19:40:47.680+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-20T19:40:50.046+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=7c222eaaf8af
+2025-04-20T19:40:50.046+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-20T19:40:50.046+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-20T19:40:50.046+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-20T19:40:50.046+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-20T19:40:50.046+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-20T19:40:51.302+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=7c222eaaf8af
+2025-04-20T19:40:51.302+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-20T19:40:51.302+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-20T19:40:51.302+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-20T19:40:51.302+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-20T19:40:51.302+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
+log output directed to /logs/mongosqld.log
+2025-04-20T19:40:52.558+0000 I CONTROL    [initandlisten] mongosqld starting: version=v2.13.1 pid=1 host=7c222eaaf8af
+2025-04-20T19:40:52.559+0000 I CONTROL    [initandlisten] git version: bae9ae2a9bff80642215b648d46312804fe62f2d
+2025-04-20T19:40:52.559+0000 I CONTROL    [initandlisten] OpenSSL version OpenSSL 1.1.1  11 Sep 2018 (built with OpenSSL 1.1.1  11 Sep 2018)
+2025-04-20T19:40:52.559+0000 I CONTROL    [initandlisten] options: {systemLog: {logAppend: true, path: "/logs/mongosqld.log"}, net: {bindIp: [0.0.0.0]}, mongodb: {net: {uri: "mongodb://ilhem:ilhem@mongodb:27017/streaming?authSource=admin"}}}
+2025-04-20T19:40:52.559+0000 I CONTROL    [initandlisten] ** WARNING: Access control is not enabled for mongosqld.
+2025-04-20T19:40:52.559+0000 I CONTROL    [initandlisten]
+--mongo-uri may not contain any authentication information
